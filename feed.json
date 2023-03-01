@@ -1,0 +1,58 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Bloggin bit",
+	"icon": "https://micro.blog/dnns/avatar.jpg",
+	"home_page_url": "https://dnns.micro.blog/",
+	"feed_url": "https://dnns.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://dnns.micro.blog/2023/03/01/hello-microblog-i.html",
+				
+				"content_html": "<p>Hello micro.blog! I just discovered this service, thanks to <a href=\"https://micro.blog/olma\">@olma</a>. So let’s find out, what I will do with it.</p>\n<p>I tried by failed in the past already with my own blog at <a href=\"https://blog.tubit.net\">blog.tubit.net</a> … But maybe this changes here?</p>\n",
+				"content_text": "Hello micro.blog! I just discovered this service, thanks to [@olma](https://micro.blog/olma). So let’s find out, what I will do with it. \r\n\r\nI tried by failed in the past already with my own blog at [blog.tubit.net](https://blog.tubit.net) … But maybe this changes here?\n",
+				"date_published": "2023-03-01T19:59:17+01:00",
+				"url": "https://dnns.micro.blog/2023/03/01/hello-microblog-i.html"
+			},
+			{
+				"id": "http://dnns.micro.blog/2022/11/01/171443.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2023/0f4f336c52.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-11-01T17:14:43+01:00",
+				"url": "https://dnns.micro.blog/2022/11/01/171443.html"
+			},
+			{
+				"id": "http://dnns.micro.blog/2022/10/29/kann-man-schon.html",
+				
+				"content_html": "<p>Kann man schon mal machenâ¦ #vacation #urlaub #arschlauber</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Kann man schon mal machenâ¦ #vacation #urlaub #arschlauber\n\n<img src=\"uploads/2023/d2000d0ee7.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-10-29T16:20:17+01:00",
+				"url": "https://dnns.micro.blog/2022/10/29/kann-man-schon.html"
+			},
+			{
+				"id": "http://dnns.micro.blog/2022/10/28/kaffee-sonne-und.html",
+				
+				"content_html": "<p>Kaffee, Sonne und mein Kindle - mehr braucht es gerade nicht. Naja, wobei. ein Gravel- oder Rennrad wÃ¤re trotzdem schÃ¶n. #vacation</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Kaffee, Sonne und mein Kindle - mehr braucht es gerade nicht. Naja, wobei. ein Gravel- oder Rennrad wÃ¤re trotzdem schÃ¶n. #vacation\n\n<img src=\"uploads/2023/7d522cddeb.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-10-28T09:07:37+01:00",
+				"url": "https://dnns.micro.blog/2022/10/28/kaffee-sonne-und.html"
+			},
+			{
+				"id": "http://dnns.micro.blog/2022/10/25/good-morning-coffee.html",
+				
+				"content_html": "<p>Good morning coffee #vacation</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Good morning coffee #vacation\n\n<img src=\"uploads/2023/a81c80c1cc.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-10-25T08:08:05+01:00",
+				"url": "https://dnns.micro.blog/2022/10/25/good-morning-coffee.html"
+			},
+			{
+				"id": "http://dnns.micro.blog/2022/10/19/185644.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/101829/2023/bf0db4a621.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-10-19T18:56:44+01:00",
+				"url": "https://dnns.micro.blog/2022/10/19/185644.html"
+			}
+	]
+}
