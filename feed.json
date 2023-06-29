@@ -37,7 +37,8 @@
 				"content_html": "<p>Heute kam dann die Bestellung von AZ-Delivery an. 5 LED Matrix Displays und 5 ESP8622 controller.</p>\n<p>Mit dem gedruckten Gehäuse wird daraus eine Uhr für ein paar Bekannte.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Heute kam dann die Bestellung von AZ-Delivery an. 5 LED Matrix Displays und 5 ESP8622 controller.\n\nMit dem gedruckten Gehäuse wird daraus eine Uhr für ein paar Bekannte.\n\n\n<img src=\"uploads/2023/9ad69ca42a.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
 				"date_published": "2023-03-11T00:25:48+02:00",
-				"url": "https://blog.konert.me/2023/03/10/heute-wird-gebastelt.html"
+				"url": "https://blog.konert.me/2023/03/10/heute-wird-gebastelt.html",
+				"tags": ["diy"]
 			},
 			{
 				"id": "http://dnns.micro.blog/2023/03/09/homeassistant-esphome-und.html",
